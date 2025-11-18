@@ -1,0 +1,14 @@
+C:\Users\aolan\source\repos\algo\algo\bin\Debug\net8.0\algo.exe
+C:\Users\aolan\source\repos\algo\algo\bin\Debug\net8.0\algo.deps.json
+C:\Users\aolan\source\repos\algo\algo\bin\Debug\net8.0\algo.runtimeconfig.json
+C:\Users\aolan\source\repos\algo\algo\bin\Debug\net8.0\algo.dll
+C:\Users\aolan\source\repos\algo\algo\bin\Debug\net8.0\algo.pdb
+C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\algo.AssemblyInfoInputs.cache
+C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\algo.AssemblyInfo.cs
+C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\algo.csproj.CoreCompileInputs.cache
+C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\algo.dll
+C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\refint\algo.dll
+C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\algo.pdb
+C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\algo.genruntimeconfig.cache
+C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\ref\algo.dll
