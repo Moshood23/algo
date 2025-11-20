@@ -12,3 +12,4 @@ C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\refint\algo.dll
 C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\algo.pdb
 C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\algo.genruntimeconfig.cache
 C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\ref\algo.dll
+C:\Users\aolan\source\repos\algo\algo\obj\Debug\net8.0\algo.sourcelink.json
