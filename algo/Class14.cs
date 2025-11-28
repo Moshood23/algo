@@ -24,8 +24,6 @@ namespace algo
         }
 
 
-        public static List<string>(string a, string b, string s c)
-        private static bool num;
 
         public static List<string> ThreeNumber(int a, int b, int c)
         {
@@ -41,7 +39,7 @@ namespace algo
                 return false;
             }
 
-            {
+           
             else return true;
             }
 
@@ -59,17 +57,6 @@ namespace algo
 
         public static List<string> strings(int a, int b) {
             return new List<string> { a.ToString(), b.ToString()
-
-
-
-
-
-
-
-
-
-
-
     };
    
 }

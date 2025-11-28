@@ -22,8 +22,13 @@ using algo;
 
 //Console.WriteLine(Console.ReadLine());
 //Console.WriteLine(Console.ReadLine());
-Console.WriteLine(Class6.FirstTwoToUpper("moshood"));
-Console.WriteLine(Class6.GetTwoNumber([1,2,3,4,5]));
+//Console.WriteLine(Class6.FirstTwoToUpper("moshood"));
+//Console.WriteLine(Class6.GetTwoNumber([1,2,3,4,5]));
+//Console.WriteLine(Class15.Bigger(2, 7));
+//Console.WriteLine(Class15.IndexOf(m));
+Console.WriteLine(House.GetIndex("moshood", 'd'));
+Console.WriteLine(
+
 
 
 
