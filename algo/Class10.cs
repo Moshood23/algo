@@ -28,7 +28,7 @@ namespace algo
     }
 }
 
-        
+         
 
 class AverageSolution
 {
