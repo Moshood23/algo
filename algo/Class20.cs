@@ -33,5 +33,24 @@ namespace algo
                 Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
             }
     }
+
+    public class program
+    {         public static void Main(string[] args)
+        {
+            int number = 42;
+            string binaryRepresentation = Class20.IntToBinary(number);
+            Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
+        }
+    }
+
+    public class Program2
+    {
+        public static void Main(string[] args)
+        {
+            int number = 42;
+            string binaryRepresentation = Class20.IntToBinary(number);
+            Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
+        }
+    }
 }
  
