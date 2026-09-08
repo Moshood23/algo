@@ -16,26 +16,27 @@ namespace algo
 
     }
 
-        public static class Class20Extensions
+    public static class Class20Extensions
+    {
+        public static string ToBinary(this int number)
         {
-            public static string ToBinary(this int number)
-            {
-                return Class20.IntToBinary(number);
-            }
+            return Class20.IntToBinary(number);
+        }
     }
 
-        public class Program
+    public class Program
+    {
+        public static void Main(string[] args)
         {
-            public static void Main(string[] args)
-            {
-                int number = 42;
-                string binaryRepresentation = number.ToBinary();
-                Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
-            }
+            int number = 42;
+            string binaryRepresentation = number.ToBinary();
+            Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
+        }
     }
 
     public class program
-    {         public static void Main(string[] args)
+    {
+        public static void Main(string[] args)
         {
             int number = 42;
             string binaryRepresentation = Class20.IntToBinary(number);
@@ -52,5 +53,29 @@ namespace algo
             Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
         }
     }
+
+    public class program3
+    {
+        public static void Main(string[] args)
+        {
+            int number = 42;
+            string binaryRepresentation = Class20.IntToBinary(number);
+            Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
+        }
+    }
+
+    public class Program4
+    {
+        public static void Main(string[] args)
+        {
+            int number = 42;
+            string binaryRepresentation = Class20.IntToBinary(number);
+            Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
+        }
+    }
 }
+
+
+    
+
  
