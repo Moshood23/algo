@@ -73,6 +73,23 @@ namespace algo
             Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
         }
     }
+
+    public class Program5
+    {
+        public static void Main(string[] args)
+        {
+        }
+    }
+
+    public class Program6
+    {
+        public static void Main(string[] args)
+        {
+            int number = 42;
+            string binaryRepresentation = Class20.IntToBinary(number);
+            Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
+        }
+    }
 }
 
 
