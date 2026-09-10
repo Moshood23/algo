@@ -90,9 +90,39 @@ namespace algo
             Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
         }
     }
+
+    public class Program7
+    {
+        public static void Main(string[] args)
+        {
+            int number = 42;
+            string binaryRepresentation = Class20.IntToBinary(number);
+            Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
+        }
+    }
+    public class Program8
+    {
+        public static void Main(string[] args)
+        {
+            int number = 42;
+            string binaryRepresentation = Class20.IntToBinary(number);
+            Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
+        }
+    }
+
+    public class Program9
+    {
+        public static void Main(string[] args)
+        {
+            int number = 42;
+            string binaryRepresentation = Class20.IntToBinary(number);
+            Console.WriteLine($"The binary representation of {number} is {binaryRepresentation}");
+        }
+    }
 }
 
 
-    
+
+
 
  
