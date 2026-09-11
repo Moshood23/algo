@@ -23,6 +23,60 @@ namespace algo
 
             return $"{max} {min}";
         }
+    }
 
+    internal class Program19
+    {
+        public static void Main(string[] args)
+        {
+            string input = "1 2 3 4 5";
+            string result = Class19.HighAndLow(input);
+            Console.WriteLine($"Input: {input}");
+            Console.WriteLine($"Output: {result}");
+        }
+    }
+
+    internal class Program19_2
+    {
+        public static void Main(string[] args)
+        {
+            string input = "1 2 3 4 5";
+            string result = Class19.HighAndLow(input);
+            Console.WriteLine($"Input: {input}");
+            Console.WriteLine($"Output: {result}");
+        }
+    }
+
+    public class Program19_3
+    {
+        public static void Main(string[] args)
+        {
+            string input = "1 2 3 4 5";
+            string result = Class19.HighAndLow(input);
+            Console.WriteLine($"Input: {input}");
+            Console.WriteLine($"Output: {result}");
+        }
+    }
+
+    public class Program19_4
+    {
+        public static void Main(string[] args)
+        {
+            string input = "1 2 3 4 5";
+            string result = Class19.HighAndLow(input);
+            Console.WriteLine($"Input: {input}");
+            Console.WriteLine($"Output: {result}");
+        }
+    }
+
+    internal class Program19_5
+    {
+        public static void Main(string[] args)
+        {
+            string input = "1 2 3 4 5";
+            string result = Class19.HighAndLow(input);
+            Console.WriteLine($"Input: {input}");
+            Console.WriteLine($"Output: {result}");
+        }
     }
 }
