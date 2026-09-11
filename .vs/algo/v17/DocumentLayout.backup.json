@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\aolan\\source\\repos\\algo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|c:\\users\\aolan\\source\\repos\\algo\\algo\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|solutionrelative:algo\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|c:\\users\\aolan\\source\\repos\\algo\\algo\\class20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|solutionrelative:algo\\class20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +11,20 @@
       "RelativeMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|solutionrelative:algo\\class18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|c:\\users\\aolan\\source\\repos\\algo\\algo\\class16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|solutionrelative:algo\\class16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|c:\\users\\aolan\\source\\repos\\algo\\algo\\class17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|solutionrelative:algo\\class17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|c:\\users\\aolan\\source\\repos\\algo\\algo\\class19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|solutionrelative:algo\\class19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|c:\\users\\aolan\\source\\repos\\algo\\algo\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|solutionrelative:algo\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|c:\\users\\aolan\\source\\repos\\algo\\algo\\codewars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +43,12 @@
       "RelativeMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|solutionrelative:algo\\class10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|c:\\users\\aolan\\source\\repos\\algo\\algo\\class17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|solutionrelative:algo\\class17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|c:\\users\\aolan\\source\\repos\\algo\\algo\\class7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|solutionrelative:algo\\class7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|c:\\users\\aolan\\source\\repos\\algo\\algo\\class9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|solutionrelative:algo\\class9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|c:\\users\\aolan\\source\\repos\\algo\\algo\\class16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|solutionrelative:algo\\class16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10DB0C00-EF64-403C-BBBF-007332BA569D}|algo\\algo.csproj|c:\\users\\aolan\\source\\repos\\algo\\algo\\class15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -160,11 +160,11 @@
         },
         {
           "DockedWidth": 388,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Class2.cs",
               "DocumentMoniker": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Class2.cs",
               "RelativeDocumentMoniker": "algo\\Class2.cs",
@@ -178,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Class18.cs",
               "DocumentMoniker": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Class18.cs",
               "RelativeDocumentMoniker": "algo\\Class18.cs",
@@ -192,20 +192,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class20.cs",
               "DocumentMoniker": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Class20.cs",
               "RelativeDocumentMoniker": "algo\\Class20.cs",
               "ToolTip": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Class20.cs",
               "RelativeToolTip": "algo\\Class20.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAQwHkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T14:39:43.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class19.cs",
               "DocumentMoniker": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Class19.cs",
               "RelativeDocumentMoniker": "algo\\Class19.cs",
@@ -218,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Moshood.cs",
               "DocumentMoniker": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Moshood.cs",
               "RelativeDocumentMoniker": "algo\\Moshood.cs",
@@ -226,12 +226,11 @@
               "RelativeToolTip": "algo\\Moshood.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:15:10.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T09:15:10.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Class17.cs",
               "DocumentMoniker": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Class17.cs",
               "RelativeDocumentMoniker": "algo\\Class17.cs",
@@ -239,11 +238,12 @@
               "RelativeToolTip": "algo\\Class17.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T14:37:45.46Z"
+              "WhenOpened": "2025-11-25T14:37:45.46Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Class16.cs",
               "DocumentMoniker": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Class16.cs",
               "RelativeDocumentMoniker": "algo\\Class16.cs",
@@ -251,11 +251,12 @@
               "RelativeToolTip": "algo\\Class16.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T08:20:38.011Z"
+              "WhenOpened": "2025-11-24T08:20:38.011Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Class10.cs",
               "DocumentMoniker": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Class10.cs",
               "RelativeDocumentMoniker": "algo\\Class10.cs",
@@ -267,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Class9.cs",
               "DocumentMoniker": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Class9.cs",
               "RelativeDocumentMoniker": "algo\\Class9.cs",
@@ -291,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Class7.cs",
               "DocumentMoniker": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Class7.cs",
               "RelativeDocumentMoniker": "algo\\Class7.cs",
@@ -303,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Program.cs",
               "RelativeDocumentMoniker": "algo\\Program.cs",
@@ -311,12 +312,11 @@
               "RelativeToolTip": "algo\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T08:44:03.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T08:44:03.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Codewars.cs",
               "DocumentMoniker": "C:\\Users\\aolan\\source\\repos\\algo\\algo\\Codewars.cs",
               "RelativeDocumentMoniker": "algo\\Codewars.cs",
@@ -324,8 +324,7 @@
               "RelativeToolTip": "algo\\Codewars.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T08:44:53.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T08:44:53.122Z"
             },
             {
               "$type": "Document",
