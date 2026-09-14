@@ -56,6 +56,28 @@ namespace algo
         }
        
     }
+    public class Program6
+    {
+        public static void Main(string[] args)
+        {
+            int a = 5;
+            int b = 10;
+            int sum = Class6.Add(a, b);
+            Console.WriteLine($"Sum of {a} and {b} is: {sum}");
+            int product = Class6.Multiply(a, b);
+            Console.WriteLine($"Product of {a} and {b} is: {product}");
+            int remainder = Class6.Divide(a, b);
+            Console.WriteLine($"Remainder of {a} divided by {b} is: {remainder}");
+            string str = "hello";
+            char firstChar = Class6.GetFirstChar(str);
+            Console.WriteLine($"First character of '{str}' is: {firstChar}");
+            string upperStr = Class6.FirstTwoToUpper(str);
+            Console.WriteLine($"String with first two characters in uppercase: {upperStr}");
+            List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
+            List<int> twoNumbers = Class6.GetTwoNumber(numbers);
+            Console.WriteLine($"First two numbers from the list: {string.Join(", ", twoNumbers)}");
+        }
+    }
 
 }
 

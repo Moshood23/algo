@@ -27,7 +27,7 @@ using algo;
 //Console.WriteLine(Class15.Bigger(2, 7));
 //Console.WriteLine(Class15.IndexOf(m));
 Console.WriteLine(House.GetIndex("moshood", 'd'));
-Console.WriteLine(
+
 
 
 
