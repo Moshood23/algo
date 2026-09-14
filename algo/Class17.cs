@@ -55,9 +55,19 @@ namespace algo
             Console.WriteLine(uniqueChars.ToString());
         }
     }
+    public class Program17_3
+    {
+        public static void Main(string[] args)
+        {
+            var class17 = new Class17();
+            List<char> list1 = new List<char> { 'a', 'b', 'c', 'd' };
+            List<char> list2 = new List<char> { 'c', 'd', 'e', 'f' };
+            var uniqueChars = class17.GetUniqueElements(list1, list2);
+            Console.WriteLine(uniqueChars.ToString());
+        }
+    }
 }
-        
-
+    
 
  
 

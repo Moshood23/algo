@@ -22,3 +22,21 @@ namespace algo
         return (int)Difference.TotalSeconds;
     }
 }
+
+public class Ka2
+{
+    public static int ElapsedSeconds(DateTime startDate, DateTime endDate)
+    {
+        TimeSpan Difference = endDate - startDate;
+        return (int)Difference.TotalSeconds;
+    }
+}
+
+public class Ka3
+{
+    public static int ElapsedSeconds(DateTime startDate, DateTime endDate)
+    {
+        TimeSpan Difference = endDate - startDate;
+        return (int)Difference.TotalSeconds;
+    }
+}

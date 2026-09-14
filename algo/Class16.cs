@@ -42,3 +42,37 @@ public class Solution
         return reversed == x.ToString();
     }
 }
+
+public class Solution2
+{
+    public bool IsPalindrome(int x)
+    {
+        if (x < 0) return false;
+        int num = x;
+        int reversed = 0;
+        while (num > 0)
+        {
+            if (reversed > int.MaxValue / 10) return false;
+            reversed = reversed * 10 + (num % 10);
+            num /= 10;
+        }
+        return reversed == x;
+    }
+}
+
+public class Solution3
+{
+    public bool IsPalindrome(int x)
+    {
+        if (x < 0) return false;
+        int num = x;
+        int reversed = 0;
+        while (num > 0)
+        {
+            if (reversed > int.MaxValue / 10) return false;
+            reversed = reversed * 10 + (num % 10);
+            num /= 10;
+        }
+        return reversed == x;
+    }
+}
