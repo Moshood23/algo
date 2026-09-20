@@ -75,4 +75,12 @@ public class Solution3
         }
         return reversed == x;
     }
+
+    public static void Main(string[] args)
+    {
+        Solution3 solution = new Solution3();
+        int x = 121;
+        bool result = solution.IsPalindrome(x);
+        Console.WriteLine($"Is {x} a palindrome? {result}");
+    }
 }

@@ -37,4 +37,24 @@ class AverageSolution
         if (array.Length == 0) return 0;
         return array.Average();
     }
+
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            double[] numbers = { 1, 2, 3, 4, 5 };
+            double average = AverageSolution.FindAverage(numbers);
+            Console.WriteLine($"The average of the array is: {average}");
+        }
+    }
+
+    class Program2
+    {
+        public static void Main(string[] args)
+        {
+            double[] numbers = { 1, 2, 3, 4, 5 };
+            double average = AverageSolution.FindAverage(numbers);
+            Console.WriteLine($"The average of the array is: {average}");
+        }
+    }
 }
