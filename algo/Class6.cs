@@ -78,7 +78,6 @@ namespace algo
             Console.WriteLine($"First two numbers from the list: {string.Join(", ", twoNumbers)}");
         }
     }
-
 }
 
 
