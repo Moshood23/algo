@@ -79,4 +79,41 @@ namespace algo
             Console.WriteLine($"Output: {result}");
         }
     }
+
+    interface IHighAndLow
+    {
+        string HighAndLow(string numbers);
+    }
+
+    internal class HighAndLowImplementation : IHighAndLow
+    {
+        public string HighAndLow(string numbers)
+        {
+            return Class19.HighAndLow(numbers);
+        }
+    }   
+
+    internal class Program19_6
+    {
+        public static void Main(string[] args)
+        {
+            IHighAndLow highAndLow = new HighAndLowImplementation();
+            string input = "1 2 3 4 5";
+            string result = highAndLow.HighAndLow(input);
+            Console.WriteLine($"Input: {input}");
+            Console.WriteLine($"Output: {result}");
+        }
+    }
+
+    internal class Program19_7
+    {
+        public static void Main(string[] args)
+        {
+            IHighAndLow highAndLow = new HighAndLowImplementation();
+            string input = "1 2 3 4 5";
+            string result = highAndLow.HighAndLow(input);
+            Console.WriteLine($"Input: {input}");
+            Console.WriteLine($"Output: {result}");
+        }
+    }
 }

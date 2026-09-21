@@ -83,4 +83,37 @@ public class Solution3
         bool result = solution.IsPalindrome(x);
         Console.WriteLine($"Is {x} a palindrome? {result}");
     }
+
+    public static void Main2(string[] args)
+    {
+        Solution3 solution = new Solution3();
+        int x = -121;
+        bool result = solution.IsPalindrome(x);
+        Console.WriteLine($"Is {x} a palindrome? {result}");
+    }
+
+    public static void Main3(string[] args)
+    {
+        Solution3 solution = new Solution3();
+        int x = 10;
+        bool result = solution.IsPalindrome(x);
+        Console.WriteLine($"Is {x} a palindrome? {result}");
+    }
+
+    public static void Main4(string[] args)
+    {
+        Solution3 solution = new Solution3();
+        int x = 12321;
+        bool result = solution.IsPalindrome(x);
+        Console.WriteLine($"Is {x} a palindrome? {result}");
+
+    }
+
+    public static void Main5(string[] args)
+    {
+        Solution3 solution = new Solution3();
+        int x = 1234321;
+        bool result = solution.IsPalindrome(x);
+        Console.WriteLine($"Is {x} a palindrome? {result}");
+    }
 }
