@@ -78,6 +78,78 @@ namespace algo
             Console.WriteLine(uniqueInts.ToString());
         }
     }
+
+    public class Program17_5
+    {
+        public static void Main(string[] args)
+        {
+            var class17 = new Class17();
+            char[] arr1 = new char[] { 'a', 'b', 'c', 'd' };
+            char[] arr2 = new char[] { 'c', 'd', 'e', 'f' };
+            var uniqueChars = class17.GetUniqueElements(arr1, arr2);
+            Console.WriteLine(uniqueChars.ToString());
+        }
+
+        public class Program17_6
+        {
+            public static void Main(string[] args)
+            {
+                var class17 = new Class17();
+                List<char> list1 = new List<char> { 'a', 'b', 'c', 'd' };
+                List<char> list2 = new List<char> { 'c', 'd', 'e', 'f' };
+                var uniqueChars = class17.GetUniqueElements(list1, list2);
+                Console.WriteLine(uniqueChars.ToString());
+            }
+        }
+
+        public class Program17_7
+        {
+            public static void Main(string[] args)
+            {
+                var class17 = new Class17();
+                List<int> list1 = new List<int> { 1, 2, 3, 4, 5 };
+                List<int> list2 = new List<int> { 4, 5, 6, 7, 8 };
+                var uniqueInts = class17.GetUniqueElements(list1, list2);
+                Console.WriteLine(uniqueInts.ToString());
+            }
+        }
+
+        public class Program17_8
+        {
+            public static void Main(string[] args)
+            {
+                var class17 = new Class17();
+                char[] arr1 = new char[] { 'a', 'b', 'c', 'd' };
+                char[] arr2 = new char[] { 'c', 'd', 'e', 'f' };
+                var uniqueChars = class17.GetUniqueElements(arr1, arr2);
+                Console.WriteLine(uniqueChars.ToString());
+            }
+        }
+
+        public class Program17_9
+        {
+            public static void Main(string[] args)
+            {
+                var class17 = new Class17();
+                List<char> list1 = new List<char> { 'a', 'b', 'c', 'd' };
+                List<char> list2 = new List<char> { 'c', 'd', 'e', 'f' };
+                var uniqueChars = class17.GetUniqueElements(list1, list2);
+                Console.WriteLine(uniqueChars.ToString());
+            }
+        }
+
+        public class Program17_10
+        {
+            public static void Main(string[] args)
+            {
+                var class17 = new Class17();
+                List<int> list1 = new List<int> { 1, 2, 3, 4, 5 };
+                List<int> list2 = new List<int> { 4, 5, 6, 7, 8 };
+                var uniqueInts = class17.GetUniqueElements(list1, list2);
+                Console.WriteLine(uniqueInts.ToString());
+            }
+        }
+    }
 }
     
 
