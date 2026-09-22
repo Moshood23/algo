@@ -94,6 +94,18 @@ internal class Program2Extensions3
             Console.WriteLine($"Is the product of {a}, {b}, and {c} odd? {isProductOdd}");
         }
     }
+
+    internal class Program2Extensions6
+    {
+        public static void Main(string[] args)
+        {
+            int a = 3;
+            int b = 5;
+            int c = 7;
+            bool isProductOdd = Class2Extensions.IsProductOdd(a, b, c);
+            Console.WriteLine($"Is the product of {a}, {b}, and {c} odd? {isProductOdd}");
+        }
+    }
 }
 
 

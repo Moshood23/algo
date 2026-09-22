@@ -40,3 +40,21 @@ public class Ka3
         return (int)Difference.TotalSeconds;
     }
 }
+
+public class Ka4
+{
+    public static int ElapsedSeconds(DateTime startDate, DateTime endDate)
+    {
+        TimeSpan Difference = endDate - startDate;
+        return (int)Difference.TotalSeconds;
+    }
+}
+
+public class Ka5
+{
+    public static int ElapsedSeconds(DateTime startDate, DateTime endDate)
+    {
+        TimeSpan Difference = endDate - startDate;
+        return (int)Difference.TotalSeconds;
+    }
+}

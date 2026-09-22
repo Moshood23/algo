@@ -116,4 +116,40 @@ namespace algo
             Console.WriteLine($"Output: {result}");
         }
     }
+
+    internal class Program19_8
+    {
+        public static void Main(string[] args)
+        {
+            IHighAndLow highAndLow = new HighAndLowImplementation();
+            string input = "1 2 3 4 5";
+            string result = highAndLow.HighAndLow(input);
+            Console.WriteLine($"Input: {input}");
+            Console.WriteLine($"Output: {result}");
+        }
+    }   
+
+    internal class Program19_9
+    {
+        public static void Main(string[] args)
+        {
+            IHighAndLow highAndLow = new HighAndLowImplementation();
+            string input = "1 2 3 4 5";
+            string result = highAndLow.HighAndLow(input);
+            Console.WriteLine($"Input: {input}");
+            Console.WriteLine($"Output: {result}");
+        }
+    }
+
+    internal class Program19_10
+    {
+        public static void Main(string[] args)
+        {
+            IHighAndLow highAndLow = new HighAndLowImplementation();
+            string input = "1 2 3 4 5";
+            string result = highAndLow.HighAndLow(input);
+            Console.WriteLine($"Input: {input}");
+            Console.WriteLine($"Output: {result}");
+        }
+    }
 }
