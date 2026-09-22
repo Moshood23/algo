@@ -35,4 +35,12 @@ namespace algo
             return name.IndexOf(myChar);
         }
     }
+
+    public class Kata
+    {
+        public static int GetIndex(string name, char myChar)
+        {
+            return name.IndexOf(myChar);
+        }
+    }
 }
